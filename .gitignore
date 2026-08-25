@@ -1,0 +1,11 @@
+Objects/
+Listings/
+*.o
+*.crf
+*.d
+*.axf
+*.htm
+*.lnp
+*.dep
+*.bak
+*.uvgui.*
