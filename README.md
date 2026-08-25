@@ -1,4 +1,4 @@
-# CAN Communication Protocol Specification - Node ID 11
+# CAN Communication Protocol Specification
 
 This document outlines the CAN communication interface for the STM32-based controller, covering real-time telemetry, direct hardware control, and on-demand data access.
 
